@@ -6,3 +6,9 @@ Clone the repo and then run with:
 `cordova run`
 
 Report issues here: https://github.com/xseignard/cordovarduino/issues/
+
+# Arduino
+
+Please make sure your arduino runs the code in `arduino` folder
+
+#
